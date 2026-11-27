@@ -1,0 +1,12 @@
+# Credenciales y datos (NO subir)
+config.php
+storage/*
+!storage/.htaccess
+!storage/.gitkeep
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
